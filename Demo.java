@@ -2,7 +2,7 @@ public class Demo {
     public static void main(String[] args) {
         
     
-    a=10;
+    a=15;
     b=2;
     c=a+b;
 
